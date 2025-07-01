@@ -1,0 +1,15 @@
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: "v0.5.5"
+    hooks:
+     - id: ruff
+       args: [ --fix ]
+     - id: ruff-format
+
+  - repo: https://github.com/codespell-project/codespell
+    rev: ad3ff374e97e29ca87c94b5dc7eccdd29adc6296
+    hooks:
+      - id: codespell
+        args: ["-L TE,TE/TM,te,ba,FPR,fpr_spacing,ro,nd,donot,schem,Synopsys,ket,inout,astroid,FOM,Komma" ]
+        additional_dependencies:
+          - tomli

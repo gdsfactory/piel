@@ -1,0 +1,104 @@
+{
+    "name": "open_port_1",
+    "attrs": {},
+    "components": [
+        {
+            "name": "load_82052D",
+            "attrs": {},
+            "ports": [
+                {
+                    "name": "IN",
+                    "attrs": {},
+                    "parent_component_name": ""
+                }
+            ],
+            "connections": [],
+            "components": [],
+            "metrics": []
+        },
+        {
+            "name": "E8364A",
+            "attrs": {},
+            "ports": [
+                {
+                    "name": "PORT1",
+                    "attrs": {},
+                    "parent_component_name": "",
+                    "domain": "RF",
+                    "connector": "",
+                    "manifold": ""
+                },
+                {
+                    "name": "PORT2",
+                    "attrs": {},
+                    "parent_component_name": "",
+                    "domain": "RF",
+                    "connector": "",
+                    "manifold": ""
+                }
+            ],
+            "connections": [],
+            "components": [],
+            "metrics": [],
+            "environment": {
+                "temperature_K": 293,
+                "region": ""
+            },
+            "manufacturer": "Agilent",
+            "model": "E8364A"
+        }
+    ],
+    "connections": [
+        {
+            "name": "",
+            "attrs": {},
+            "ports": [
+                {
+                    "name": "PORT1",
+                    "attrs": {},
+                    "parent_component_name": ""
+                },
+                {
+                    "name": "IN",
+                    "attrs": {},
+                    "parent_component_name": ""
+                }
+            ],
+            "time": {
+                "name": "",
+                "attrs": {},
+                "value": 0,
+                "mean": 0,
+                "min": 0,
+                "max": 0,
+                "standard_deviation": 0,
+                "count": null,
+                "unit": {
+                    "name": "second",
+                    "label": "Time $s$",
+                    "shorthand": "s",
+                    "symbol": "",
+                    "datum": "second",
+                    "base": 1
+                }
+            }
+        }
+    ],
+    "goal": "",
+    "parameters": {},
+    "index": 0,
+    "date_configured": "",
+    "date_measured": "",
+    "measurement_configuration_list": [
+        {
+            "name": "",
+            "attrs": {},
+            "parent_directory": "",
+            "measurement_type": "",
+            "measurement_configuration_type": "VNASParameterMeasurementConfiguration",
+            "frequency_range_Hz": [],
+            "sweep_points": 0,
+            "test_port_power_dBm": 0.0
+        }
+    ]
+}

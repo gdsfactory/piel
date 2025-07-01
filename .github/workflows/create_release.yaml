@@ -1,0 +1,30 @@
+name: Create Release
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Create release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ env.VERSION }}  # Use the incremented version as the tag name
+          release_name: ${{ env.VERSION }}  # Customize the release name
+          body: |
+            :tada: :tada: Piel Release Version: ${{ env.VERSION }}.
+          draft: false
+          release: true

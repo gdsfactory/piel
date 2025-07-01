@@ -1,0 +1,74 @@
+name: "piel-coverage"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - develop
+      - full_example_dev_again
+
+defaults:
+  run:
+    shell: bash
+
+env:
+  PIP_DISABLE_PIP_VERSION_CHECK: 1
+  FORCE_COLOR: 1    # Get colored pytest output
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Coverage Test
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.10"
+
+    - name: Set up uv
+      # Install a specific uv version using the installer
+      run: curl -LsSf https://astral.sh/uv/0.3.0/install.sh | sh
+
+    #----------------------------------------------
+    # install dependencies if cache does not exist
+    #----------------------------------------------
+    - name: Install dependencies
+      run: |
+        uv venv venv
+        source venv/bin/activate
+        pip install coverage
+
+    # Step 2: Install Nix
+    - name: Install and Build Nix with script
+      run: source scripts/install_piel_nix.sh
+
+    - name: Run Coverage Tests
+      run: |
+        nix develop . --command bash -c "
+          source scripts/test_coverage.sh &&
+          total=\$(coverage report | tail -n1 | awk '{print \$NF}' | tr -d '%') &&
+          echo \"total=\${total}\" >> \$GITHUB_ENV &&
+          echo \"### Total coverage: \${total}%\"
+        "
+
+    - name: "Create badge"
+      # if: ${{ github.ref == 'refs/heads/latest' }}
+      # https://gist.githubusercontent.com/nedbat/8c6980f77988a327348f9b02bbaf67f5
+      uses: schneegans/dynamic-badges-action@v1.7.0
+      with:
+        auth: ${{ secrets.GH_PAT }}
+        gistID: 605df9da19061593715258b77e06ab9b
+        filename: piel_coverage.json
+        label: Coverage
+        message: ${{ env.total }}%
+        minColorRange: 60
+        maxColorRange: 95
+        valColorRange: ${{ env.total }}
+        style: "for-the-badge"

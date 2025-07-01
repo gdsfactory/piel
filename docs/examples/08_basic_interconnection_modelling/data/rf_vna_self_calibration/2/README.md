@@ -1,0 +1,9932 @@
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+      -
+        - **name**: IN
+- **goal**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+
+
+## Schema 
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**: None
+
+
+## Schema 
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**: None
+
+
+## Schema 
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**: None
+
+
+## Schema 
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**: None
+
+
+## Schema 
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**: None
+
+
+## Schema 
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**: None
+
+
+## Schema 
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: None
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: None
+- **parameters**: None
+- **index**: None
+- **date_configured**: None
+- **date_measured**: None
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: None
+    - **parent_directory**: None
+    - **measurement_type**: None
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: None
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: None
+      -
+        - **name**: IN
+        - **parent_component_name**: None
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: None
+        - **manifold**: None
+    - **connections**: None
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: None
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**: None
+    - **sweep_points**: None
+    - **test_port_power_dBm**: None
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: None
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+        - **domain**: None
+        - **connector**: SMA_3.5mm
+        - **manifold**: 82052D
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: 85052D
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+    - **configuration**:
+      - **calibration_setting_name**: bpl_vna_ports
+      - **measurement_configuration**: None
+    - **serial_number**: 
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+    - **connections**:
+    - **components**:
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+    - **connections**:
+    - **components**:
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+    - **connections**:
+    - **components**:
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+    - **connections**:
+    - **components**:
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+    - **connections**:
+    - **components**:
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+    - **connections**:
+    - **components**:
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+    - **connections**:
+    - **components**:
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+    - **connections**:
+    - **components**:
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+    - **connections**:
+    - **components**:
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0
+
+
+## Schema 
+- **name**: open_port_2
+- **components**:
+  -
+    - **name**: load_82052D
+    - **ports**:
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+    - **connections**:
+    - **components**:
+  -
+    - **name**: E8364A
+    - **ports**:
+      -
+        - **name**: PORT1
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+        - **domain**: RF
+        - **connector**: 
+        - **manifold**: 
+    - **connections**:
+    - **components**:
+    - **environment**: None
+    - **manufacturer**: Agilent
+    - **model**: E8364A
+- **connections**:
+  -
+    - **name**: 
+    - **ports**:
+      -
+        - **name**: PORT2
+        - **parent_component_name**: 
+      -
+        - **name**: IN
+        - **parent_component_name**: 
+- **goal**: 
+- **parameters**:
+- **index**: 0
+- **date_configured**: 
+- **date_measured**: 
+- **measurement_configuration_list**:
+  -
+    - **name**: 
+    - **parent_directory**: 
+    - **measurement_type**: 
+    - **measurement_configuration_type**: VNASParameterMeasurementConfiguration
+    - **frequency_range_Hz**:
+    - **sweep_points**: 0
+    - **test_port_power_dBm**: 0.0

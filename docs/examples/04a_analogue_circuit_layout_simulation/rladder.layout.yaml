@@ -1,0 +1,398 @@
+schema_version: 1
+schema: null
+instances:
+  ps:
+    component: sky130_fd_pr__rf_pfet_01v8_mcM04W3p00L0p15
+    settings: {}
+  ns:
+    component: sky130_fd_pr__rf_nfet_01v8_aM02W1p65L0p15
+    settings: {}
+placements:
+  ps: {x: null, y: null, port: null, rotation: 0.0, dx: null, dy: null, mirror: null}
+  ns: {x: null, y: null, port: null, rotation: 0.0, dx: null, dy: null, mirror: null}
+routes:
+  r0:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r1:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r2:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r3:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r4:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r5:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r6:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r7:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r8:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r9:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r10:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r11:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r12:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r13:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r14:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r15:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r16:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r17:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r18:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r19:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r20:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r21:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r22:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r23:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r24:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r25:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r26:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r27:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r28:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r29:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r30:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r31:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r32:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r33:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r34:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r35:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r36:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r37:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r38:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r39:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r40:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r41:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r42:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r43:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r44:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r45:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r46:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r47:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r48:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r49:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r50:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r51:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r52:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r53:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r54:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r55:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r56:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r57:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r58:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r59:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r60:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r61:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r62:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r63:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r64:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r65:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r66:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r67:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r68:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r69:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r70:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r71:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r72:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r73:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r74:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r75:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r76:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r77:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r78:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r79:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r80:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r81:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r82:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r83:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r84:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r85:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r86:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r87:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r88:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r89:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r90:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r91:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+  r92:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,DRAIN': 'ns,SOURCE'}
+  r93:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ps,GATE': 'ns,GATE'}
+  r94:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,GATE': 'ps,GATE'}
+  r95:
+    routing_strategy: get_bundle
+    settings: {cross_section: xs_metal1, separation: 5.0}
+    links: {'ns,SOURCE': 'ps,DRAIN'}
+ports: {}
